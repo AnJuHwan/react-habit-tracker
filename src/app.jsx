@@ -5,8 +5,6 @@ import Navbar from './components/navbar';
 import SimpleHabit from './components/simpleHabit';
 
 
-
-
 class App extends Component {
   state= {
     habits:[
